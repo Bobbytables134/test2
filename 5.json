@@ -1,0 +1,54 @@
+{
+  "name": "solgats #5",
+  "symbol": "SolGats",
+  "description": "1776 hand drawn space gats shooting their way up the solana ecosystem.",
+  "seller_fee_basis_points": 1000,
+  "image": "5.png",
+  "external_url": "https://solgats.io",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "backgrounds",
+      "value": "gradient3"
+    },
+    {
+      "trait_type": "buttstock",
+      "value": "3"
+    },
+    {
+      "trait_type": "handle-trigger",
+      "value": "5"
+    },
+    {
+      "trait_type": "scope",
+      "value": "5"
+    },
+    {
+      "trait_type": "front-grip",
+      "value": "5"
+    },
+    {
+      "trait_type": "barrel",
+      "value": "8"
+    },
+    {
+      "trait_type": "main-gun-body",
+      "value": "2"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "5.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9dvvT4BPG6hvPHhvRXpBAvd6xEnP2hoeArVKnZyCgQRF",
+        "share": 100
+      }
+    ]
+  }
+}
