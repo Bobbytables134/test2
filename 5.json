@@ -3,7 +3,7 @@
   "symbol": "SolGats",
   "description": "1776 hand drawn space gats shooting their way up the solana ecosystem.",
   "seller_fee_basis_points": 1000,
-  "image": "5.png",
+  "image": "https://raw.githubusercontent.com/Bobbytables134/test2/main/5.png",
   "external_url": "https://solgats.io",
   "edition": 5,
   "attributes": [
@@ -39,7 +39,7 @@
   "properties": {
     "files": [
       {
-        "uri": "5.png",
+        "uri": "https://raw.githubusercontent.com/Bobbytables134/test2/main/5.png",
         "type": "image/png"
       }
     ],
